@@ -1,0 +1,42 @@
+{
+  "name": "@basex-fi/router-sdk",
+  "version": "1.0.0",
+  "description": "An sdk for routing swaps on BaseX",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "tsdx test",
+    "build": "tsdx build",
+    "start": "tsdx watch",
+    "prepublishOnly": "tsdx build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basex-fi/router-sdk.git"
+  },
+  "keywords": [
+    "uniswap",
+    "basex",
+    "solidly",
+    "ethereum"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@basex-fi/sdk-core": "^1.0.5",
+    "@ethersproject/abi": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "prettier": "^2.4.1",
+    "tsdx": "^0.14.1"
+  },
+  "prettier": {
+    "endOfLine": "lf",
+    "semi": true,
+    "singleQuote": false,
+    "tabWidth": 2
+  }
+}

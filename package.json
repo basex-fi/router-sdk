@@ -1,6 +1,6 @@
 {
   "name": "@basex-fi/router-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An sdk for routing swaps on BaseX",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@basex-fi/sdk-core": "^1.1.1",
+    "@basex-fi/sdk-core": "^1.1.2",
     "@ethersproject/abi": "^5.5.0"
   },
   "devDependencies": {

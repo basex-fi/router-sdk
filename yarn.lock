@@ -963,10 +963,10 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@basex-fi/sdk-core@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@basex-fi/sdk-core/-/sdk-core-1.1.0.tgz#9d68d04699779190f542e9937c6adb0b06a1c489"
-  integrity sha512-+j/E+r+UVynU33xtH7DCoy6AMh39+0X/FjsnQBfJCQ2CLo7+JHlsH+Pid5EtuugaRkjx5E7hUVoiaLM5XCnlcA==
+"@basex-fi/sdk-core@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@basex-fi/sdk-core/-/sdk-core-1.1.1.tgz#44f1d58f36445305b4e63984453cd032b7eb8740"
+  integrity sha512-LmHsxFgDZVziJ+FS7n1FIo/68uX6sT/s8EohRg+KTPd7mAECXNacWf3ojcOQnirDqxZqFZi6jFcLOdyZ0FBn4g==
   dependencies:
     "@ethersproject/abi" "^5.7.0"
     "@ethersproject/address" "^5.0.2"

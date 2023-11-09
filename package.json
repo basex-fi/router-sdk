@@ -1,6 +1,6 @@
 {
   "name": "@basex-fi/router-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An sdk for routing swaps on BaseX",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
